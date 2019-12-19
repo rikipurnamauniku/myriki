@@ -1,0 +1,2 @@
+# myriki
+jaringan komputer uniku
